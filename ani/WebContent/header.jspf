@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
+<!DOCTYPE html>
+<header>
+	<h1>사이트 제목입니당</h1>
+	<h2>메뉴들 입니당</h2>
+	<nav>
+		| <a href="">1번째 메뉴</a> |
+	 	<a href="">2번째 메뉴</a> |
+		<a href="">3번째 메뉴</a> |
+		<a href="">4번째 메뉴</a> |
+		<a href="">5번째 메뉴</a> |
+	</nav>
+	<hr />
+</header>
